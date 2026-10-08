@@ -1,5 +1,7 @@
 # Sungjune Kong
 
+[Personal Website](https://steady-kong.github.io/)
+
 I build practical software at the intersection of intelligent systems,
 human-centered products, and reliable automation.
 
