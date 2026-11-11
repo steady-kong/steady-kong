@@ -10,9 +10,9 @@ Software developer working across AI, product engineering, and intelligent syste
 
 A team project that extends the xv6 teaching operating system to run an LLM-powered agent with kernel-level scheduling and sandboxing. I worked on evaluation automation and technical documentation, including scheduler tests and benchmarks.
 
-### [Morgorithm — Conversational Coffee Recommendations](https://github.com/steady-kong/2026-Algorithm-Team-Project)
+### [Hanjan Pick (한잔픽) — Conversational Coffee Recommendations](https://github.com/steady-kong/2026-Algorithm-Team-Project)
 
-A conversational coffee recommendation app built with SvelteKit and TypeScript. I built the initial from-scratch algorithm foundation and contributed recommendation safeguards and match explanations.
+A conversational coffee recommendation app built with SvelteKit and TypeScript. I built the initial from-scratch algorithm foundation and contributed recommendation safeguards and match explanations. [Live demo](https://hanjan-pick.steady11317.workers.dev/).
 
 ### [5G C-V2X — Connectivity for Autonomous Driving](https://github.com/steady-kong/5g-cv2x-autonomous-driving-survey)
 
