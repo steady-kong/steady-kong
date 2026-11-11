@@ -12,7 +12,7 @@ A team project that extends the xv6 teaching operating system to run an LLM-powe
 
 ### [Hanjan Pick (한잔픽) — Conversational Coffee Recommendations](https://github.com/steady-kong/2026-Algorithm-Team-Project)
 
-A conversational coffee recommendation app built with SvelteKit and TypeScript. I built the initial from-scratch algorithm foundation and contributed recommendation safeguards and match explanations. [Live demo](https://hanjan-pick.steady11317.workers.dev/).
+A conversational coffee recommendation app built with SvelteKit and TypeScript. I built the initial from-scratch algorithm foundation and contributed recommendation safeguards and match explanations.
 
 ### [5G C-V2X — Connectivity for Autonomous Driving](https://github.com/steady-kong/5g-cv2x-autonomous-driving-survey)
 
